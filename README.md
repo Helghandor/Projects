@@ -8,7 +8,6 @@ This is a simple online food ordering web application built with HTML, Tailwind 
 - **Menu Page:** Browse a selection of Mediterranean dishes, each with an image and "Add" button.
 - **Cart Counter:** The number of items added is displayed in the navigation bar.
 - **Responsive Design:** Built with Tailwind CSS for a modern, responsive layout.
-- **Admin Page:** Simple login form for admin access (demo only).
 
 ## Folder Structure
 
@@ -17,8 +16,8 @@ online-food-ordering-app/
 │
 ├── HTML/
 │   ├── admin.html
-│   ├── menu.html
-│   └── (other HTML files)
+│   └── menu.html
+│   
 │
 ├── CSS/
 │   └── output.css
